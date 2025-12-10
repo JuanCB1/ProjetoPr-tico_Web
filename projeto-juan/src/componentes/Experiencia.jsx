@@ -13,7 +13,7 @@ function Experiencia() {
 
             <div className="bar">
                 <AiFillHtml5 size = {28}/>
-                <ProgressBar label="React" value="80%"/>
+                <ProgressBar label="3 anos" value="80%"/>
                 <span>HTML</span>
                 <div className="progress">
                 </div>
@@ -21,7 +21,7 @@ function Experiencia() {
 
             <div className="bar">
                 <FaJsSquare size = {28}/>
-                <ProgressBar label="React" value="60%"/>
+                <ProgressBar label="2 anos" value="60%"/>
                 <span>JavaScript</span>
                 <div className="progress">
                 </div>
@@ -29,7 +29,7 @@ function Experiencia() {
 
             <div className="bar">
                 <FaPython size = {28}/>
-                <ProgressBar label="React" value="40%"/>
+                <ProgressBar label="2 anos" value="60%"/>
                 <span>Python</span>
                 <div className="progress">
                 </div>
